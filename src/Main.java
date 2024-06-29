@@ -3,9 +3,9 @@ public class Main {
 
         System.out.println("Hello world");
 
-        String[] names = {"Jose","Alex","Miguel","Juan","Mari","Carlos","Jenny"};
-        for (String name:names){
-            System.out.println(name);
+        String[] lastNames = {"Acuna","Lopez","Ruiz","Lara","Cortez","Barrera","Reyes"};
+        for (String lastname : lastNames){
+            System.out.println(lastname);
         }
     }
 }
